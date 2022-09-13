@@ -1,0 +1,1 @@
+config = {"ip_menu": ["IP 삭제", "IP 생성"]}
